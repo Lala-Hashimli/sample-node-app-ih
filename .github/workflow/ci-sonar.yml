@@ -3,7 +3,6 @@ name: Continuous Integration Pipeline with SonarQube
 on:
  workflow_dispatch
 
-# Define permissions for the workflow
 permissions:
  contents: read
  actions: read
